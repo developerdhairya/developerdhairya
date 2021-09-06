@@ -1,9 +1,8 @@
-### Hi there 👋
+
+ [![trophy](https://github-profile-trophy.vercel.app/developerdhairya=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on Vartaa-Messenger...
 - 🌱 I’m currently learning Data Structures...
 - 💬 Ask me about Flutter,Java,Python or any tech stuff ...
 - 📫 How to reach me: https://www.developerdhairya.tech..
-- 
-- [![trophy](https://github-profile-trophy.vercel.app/developerdhairya=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
