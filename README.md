@@ -1,4 +1,12 @@
-<h1 align="center">Hey, I'm Dhairya👨‍💻</h1>
+<a href="https://icons8.com/icon/n9d0Hm43JCPK/link"></a>
+<div align="center" style="width: 100%;">
+  <table>
+    <tr><th><a href="https://skyline.github.com/developerdhairya/2021"><img width="5000px" src="./githubSkyline.gif"></a></th></tr>
+  </table>
+</div>
+<div align="center">
+
+<h1 align="center">Hey, I'm Dhairya Taneja👨‍💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
