@@ -8,13 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerdhairya&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
 
-- 🔭 I’m currently working on Microservices
 
-- 🌱 I’m currently learning **Data Structures & Algorithms**
-
-- 💬 Ask me about **Flutter,Nodejs,SpringBoot,Java,Javascript or any tech stuff**
-
-- 📫 How to reach me: https://www.developerdhairya.tech..
 
 
 
