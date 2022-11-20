@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Flutter,Nodejs,SpringBoot,Java,Javascript or any tech stuff**
 
-- 📫 How to reach me: https://www.developerdhairya.tech..
+- 📫 How to reach me: https://www.developerdhairya.tech
 
 
 ## 📈 **My Github Stats**
