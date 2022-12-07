@@ -22,10 +22,6 @@
 
 - 📫 How to reach me: https://www.developerdhairya.tech
 
-
-## 📈 **My Github Stats**
-<!-- <p align="center"> -->
-
   
 ## 📈 **My Github Stats**
 <p align="center">
