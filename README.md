@@ -25,8 +25,8 @@
   
 ## 📈 **My Github Stats**
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerdhairya&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Dhairya Taneja :: Profile Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdhairya&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Dhairya Taneja :: Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerdhairya&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Dhairya Taneja :: Profile Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerdhairya&langs_count=8&theme=dark&layout=compact&hide_border=true" alt="Dhairya Taneja :: Top Langs" />
 </p>
 
 <div align="center">
