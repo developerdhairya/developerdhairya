@@ -31,7 +31,7 @@
 
 <div align="center">
   
-[![Coder Chirag :: Streak](http://github-readme-streak-stats.herokuapp.com?user=developerdhairya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=developerdhairya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
+[![Dhairya Taneja :: Streak](http://github-readme-streak-stats.herokuapp.com?user=developerdhairya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=developerdhairya&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
