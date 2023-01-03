@@ -14,7 +14,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-- 🔭 I’m currently working on **Data Structures & Algorithms**
+- 🔭 I’m currently working on **Problem Solving**
 
 - 🌱 I’m currently learning **Microservice Architecture**
 
