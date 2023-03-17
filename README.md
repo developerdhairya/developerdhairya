@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developerdhairya&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagarg-ig" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerdhairya&no-frame=true&row=1&column=7" alt="ishikagarg-ig" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerdhairya&no-frame=true&row=1&column=7" alt="developerdhairya" /></a> </p>
 
 
 
@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Microservice Architecture**
 
-- 💬 Ask me about **Flutter,Nodejs,SpringBoot,Java,Javascript or any tech stuff**
+- 💬 Ask me about ** Nodejs,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff**
 
 - 📫 How to reach me: https://www.developerdhairya.tech
 
