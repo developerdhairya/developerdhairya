@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Microservice Architecture**
 
-- 💬 Ask me about ** Nodejs,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff**
+- 💬 Ask me about:  Nodejs,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff
 
 - 📫 How to reach me: https://www.developerdhairya.tech
 
