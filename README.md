@@ -14,9 +14,9 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on **Microservice Architecture**
 
-- 🌱 I’m currently learning **Microservice Architecture**
+- 🌱 I’m currently learning **System Design Concepts**
 
 - 💬 Ask me about:  Nodejs,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff
 
