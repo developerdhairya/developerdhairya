@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **System Design Concepts**
 
-- 💬 Ask me about:  Nodejs,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff
+- 💬 Ask me about:  Mulesoft,SpringBoot,Java,Javascript,Microservices,Firebase,AWS or any tech stuff
 
 - 📫 How to reach me: https://www.developerdhairya.tech
 
